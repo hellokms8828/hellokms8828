@@ -32,6 +32,6 @@
 ![Springboot](https://img.shields.io/badge/Springboot-33BB33?style=flat-square&logo=Spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=React&logoColor=%2361DAFB))
 ![Node.js](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=node.js&logoColor=white)
-![Php](https://img.shields.io/badge/PHP-whitesmoke.svg?style=flat-square&logo=php&logoColor=blue)
+![Php](https://img.shields.io/badge/PHP-whitesmoke.svg?style=flat-square&logo=php&logoColor=ffdd54)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Hacking](https://img.shields.io/badge/Hacking-3670A0?style=flat-square&logo=&logoColor=ffdd54)  
+![Hacking](https://img.shields.io/badge/Hacking-ff3060?style=flat-square&logo=&logoColor=fffff)  
