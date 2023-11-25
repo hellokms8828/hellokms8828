@@ -10,7 +10,7 @@
                 AWS: ['DevSecOps', 'AutoScailing', 'WAF', 'IAM'],
                 Azure: ['AutoScailing', 'Deploy'],
                 GCP: ['Deploy']
-                }
+                },
               Security: ['Web Hack', 'Pwnable Hack', 'reversing', 'Digital Forensic', '보안관제']
             }
             Language:
