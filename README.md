@@ -5,7 +5,7 @@
 {
             Skills:{
               Front-end: ['React', 'node.js'],
-              Back-end: ['node,js', 'Springboot', 'Flask'],
+              Back-end: ['node,js', 'Springboot', 'Flask', 'Php'],
               Cloud: {
                 AWS: ['DevSecOps', 'AutoScailing', 'WAF', 'IAM'],
                 Azure: ['AutoScailing', 'Deploy'],
