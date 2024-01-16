@@ -4,7 +4,7 @@
 ```javascript
 {
             Skills:{
-              Front-end: ['React', 'node.js'],
+              Front-end: ['React.js', 'node.js'],
               Back-end: ['node,js', 'Springboot', 'Flask', 'Php'],
               Cloud: {
                 AWS: ['DevSecOps', 'AutoScailing', 'WAF', 'IAM'],
@@ -20,7 +20,7 @@
 }
 ```
 
-- 🌱 I’m currently learning Best of the Best 12th
+- 🌱 I’m currently learning Best of the Best 12th, TOP 30
 - 💬 Ask me about 20190985@sunghin.ac.kr
 
 
