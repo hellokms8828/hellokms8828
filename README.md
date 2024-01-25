@@ -20,7 +20,7 @@
 }
 ```
 
-- 🌱 I’m currently learning Best of the Best 12th, TOP 30
+- 🌱 I’m currently learning Best of the Best 12th, Dev Track, TOP 30
 - 💬 Ask me about 20190985@sunghin.ac.kr
 
 
